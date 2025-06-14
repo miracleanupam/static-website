@@ -1,1 +1,0 @@
-import{c as e,j as r,r as t,A as s}from"./App-ChQitNLm.js";e.createRoot(document.getElementById("root")).render(r.jsxs(t.StrictMode,{children:["// ",r.jsxs(BrowserRouter,{children:[r.jsx(s,{}),"// "]})]}));
